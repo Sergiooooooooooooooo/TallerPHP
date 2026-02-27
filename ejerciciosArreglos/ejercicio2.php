@@ -1,12 +1,12 @@
 <?php
 
 $envios = [
-    ['id' => 1, 'ciudad' => 'Medellin', 'transportista' => 'Sergio', 'peso' => 12, 'costo_kilo' => 1500, 'estado' => 'Entregado'],
-    ['id' => 2, 'ciudad' => 'Bogota', 'transportista' => 'Valeria', 'peso' => 8, 'costo_kilo' => 2000, 'estado' => 'En ruta'],
-    ['id' => 3, 'ciudad' => 'Cali', 'transportista' => 'Sergio', 'peso' => 5, 'costo_kilo' => 1800, 'estado' => 'Entregado'],
-    ['id' => 4, 'ciudad' => 'Medellin', 'transportista' => 'Andres', 'peso' => 20, 'costo_kilo' => 1500, 'estado' => 'Cancelado'],
-    ['id' => 5, 'ciudad' => 'Bogota', 'transportista' => 'Valeria', 'peso' => 15, 'costo_kilo' => 2000, 'estado' => 'Entregado'],
-    ['id' => 6, 'ciudad' => 'Medellin', 'transportista' => 'Sergio', 'peso' => 10, 'costo_kilo' => 1500, 'estado' => 'Entregado'],
+    ['id' => 1, 'ciudad' => 'Medellin', 'transportista' => 'Coordinadora', 'peso' => 12, 'costo_kilo' => 1500, 'estado' => 'Entregado'],
+    ['id' => 2, 'ciudad' => 'Bogota', 'transportista' => 'Servientrega', 'peso' => 8, 'costo_kilo' => 2000, 'estado' => 'En ruta'],
+    ['id' => 3, 'ciudad' => 'Cali', 'transportista' => 'Coordinadora', 'peso' => 5, 'costo_kilo' => 1800, 'estado' => 'Entregado'],
+    ['id' => 4, 'ciudad' => 'Medellin', 'transportista' => 'TCC', 'peso' => 20, 'costo_kilo' => 1500, 'estado' => 'Cancelado'],
+    ['id' => 5, 'ciudad' => 'Bogota', 'transportista' => 'Servientrega', 'peso' => 15, 'costo_kilo' => 2000, 'estado' => 'Entregado'],
+    ['id' => 6, 'ciudad' => 'Medellin', 'transportista' => 'Coordinadora', 'peso' => 10, 'costo_kilo' => 1500, 'estado' => 'Entregado'],
 ];
 
 
